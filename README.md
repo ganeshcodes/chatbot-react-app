@@ -23,12 +23,12 @@ A simple yet flexible React chat bot web interface inspired by the ChatGPT web i
    ```bash
    npm start
 4. Open http://localhost:3000 in browser.
-5. You also need to POST endpoint that returns response to the user prompt. (Ref:     chatbot python backend repo) 
+5. You also need to POST endpoint that returns response to the user prompt. (Ref: [ChatBot Python Backend Barebone](https://github.com/ganeshcodes/chatbot-python-backend/)) 
 6. Customize and extend the app to suit your chat bot needs.
 
 ## Inspired by
 
-This project not only draws inspiration from the user interface of ChatGPT but also created with the help of [https://chat.openai.com](ChatGPT 3.5), offering a foundation for developers to create engaging chat bot applications.
+This project not only draws inspiration from the user interface of ChatGPT but also created with the help of [ChatGPT 3.5](https://chat.openai.com), offering a foundation for developers to create engaging chat bot applications.
 
 ## Contribution
 
